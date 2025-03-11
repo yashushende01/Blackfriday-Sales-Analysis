@@ -13,7 +13,7 @@ Python (Pandas, Matplotlib, Seaborn) for data cleaning and visualization.
 Jupyter Notebook for interactive analysis.
 
 # Dataset Description
-The dataset contains customer transactions during Black Friday sales, including:
+# The dataset contains customer transactions during Black Friday sales, including:
 User_ID: Unique identifier for each customer.
 Product_ID: Unique product identifier.
 Gender: Male (M) or Female (F).
